@@ -16,4 +16,4 @@ All the following packages are used in this project:
 `pandas`, `numpy`, `sklearn`, `optuna`, `xgboost`, `seaborn`, `matplotlib`.
 
 ## Result
-Awarded 1st place from the BARDS research group at Merck
+Awarded 1st place from the BARDS research group at Merck and Statistics Deparemnt at Rutger University
